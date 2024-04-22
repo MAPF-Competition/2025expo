@@ -9,7 +9,7 @@ title: Invited Speaker
 <!-- generate two column table in html using the content in the commented markdown table with inline style. center the image -->
 <div style="display: flex; justify-content: center;">
     <div style="width: 50%;display: flex; justify-content: center;">
-        <img src="{{ site.github.repo }}/organisers/fede-pic.jpeg" alt="Federico Pecora" style="margin-top:auto;margin-bottom:auto;width:120px;height:160px; border-radius: 10%">
+        <img src="{{ site.github.repo }}/organisers/fede-pic.jpeg" alt="Federico Pecora" style="margin-top:auto;margin-bottom:auto;width:171px;height:200px; border-radius: 10%">
     </div>
     <div style="width: 50%;">
         <h3>Federico Pecora
