@@ -4,7 +4,7 @@ title: Call for Submissions
 ---
 
 
-We invite all teams and team members from the League of Robot Runners to participate in our 2024 Virtual Expo, which takes place online May 20th, from 1530 EST (UTC-5).
+We invite all teams and team members from the League of Robot Runners to participate in our 2024 Virtual Expo, which takes place online May 20th, from 1530 EDT (UTC-4).
 
 The expo is a community event where we celebrate and reflect on the recent competition round. It is an opportunity for participants to share their experiences and insights into the challenge problems, to tell the community about their innovative approaches, and to celebrate the performances that helped make the inaugural League of Robot Runners such a memorable success!
 
