@@ -16,13 +16,22 @@ Attendance is open to anyone, including non-competitors and students. Please ref
 
 **Program Highlights:**
 
-The technical program will feature a number of sessions which will be of interest to competition participants and interested members of the broader community:
+The [technical program](./schedule/) features a number of sessions which will be of interest to competition participants and interested members of the broader community:
 
-* [Industry Keynote](./invited_speaker/) from Amazon Robotics.
+* [Industry Keynote](./invited_speaker/) from Federico Pecora (Amazon Robotics).
 * Awards Ceremony, to celebrate distinguished and noteworthy performances.
 * Technical talks from competing teams and team members.
 * Community meeting, to discuss the future direction of the competition.
 
+<style>
+    table, td, th {
+    border: none!important;
+ }
+</style>
+
+|     |     |     |     |     |     |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|![](./resources/logos/mit_logo.png) | ![](./resources/logos/monash_logo.png) | ![](./resources/logos/rutgers_logo.png) | ![](./resources/logos/usc_logo.png) |  | ![](./resources/logos/amazon_robotics_logo.png)|
 
 
      
