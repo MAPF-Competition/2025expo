@@ -24,7 +24,7 @@ The [technical program](./schedule/) features a number of sessions which will be
 **Event Details:**
 * Date: May 20th, 2024
 * Time: 1530 EDT (UTC-4)
-* Location: the event will be held online via Zoom. (Participation instructions will be provided to registered attendees.)
+* Location: the event will be held online via Zoom and participation instructions will be provided to registered attendees.
 
 <style>
     table, td, th {
