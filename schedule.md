@@ -67,25 +67,33 @@ tbody tr:nth-child(odd) th {
         <td>17:00 </td>
         <td  style="text-align:left;">Scaling Lifelong Multi-Agent Path Finding to More Realistic Settings: Research Challenges and Opportunities</td>
         <td style="text-align:left;">He Jiang, Yulun Zhang, Rishi Veerapaneni and Jiaoyang Li</td>
-        <td>-</td>
+        <td>
+        <a target="_blank" href="https://github.com/MAPF-Competition/Code-Archive/tree/master/2023%20Competition/Team_Pikachu">Source</a>
+        </td>
     </tr>
     <tr>
         <td>17:15 </td>
         <td  style="text-align:left;">Shadoks Approach for Lifelong Multi-Agent Path Finding</td>
         <td style="text-align:left;">Aldo Gonzalez-Lorenzo and Guilherme D. da Fonseca</td>
-        <td>-</td>
+        <td>
+        <a target="_blank" href="https://github.com/MAPF-Competition/Code-Archive/tree/master/2023%20Competition/Team_Shadoks">Source</a>
+        </td>
     </tr>
     <tr>
         <td>17:30 </td>
         <td  style="text-align:left;">Description of Ideas Used in League of Robot Runners 2023</td>
         <td style="text-align:left;">Márton Ambrus-Dobai</td>
-        <td>-</td>
+        <td>
+        <a target="_blank" href="https://github.com/MAPF-Competition/Code-Archive/tree/master/2023%20Competition/Team_M%C3%A1rton_Ambrus-Dobai">Source</a>
+        </td>
     </tr>
     <tr>
         <td>17:45 </td>
         <td  style="text-align:left;">Puzzle Heuristics: Efficient Lifelong Multi-Agent Pathfinding Algorithm for Large-scale Challenging Environments</td>
         <td style="text-align:left;">Wonjong Lee, Joonyeol Sim and Changjoo Nam</td>
-        <td>-</td>
+        <td>
+        <a target="_blank" href="https://github.com/MAPF-Competition/Code-Archive/tree/master/2023%20Competition/Team_AIRLAB">Source</a>
+        </td>
     </tr>
     <tr>
         <td colspan="4" style="background-color: #f9f9f9;"><strong>Session 3</strong> (Chair: Zhe Chen)</td>
