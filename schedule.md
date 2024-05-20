@@ -23,7 +23,7 @@ tbody tr:nth-child(odd) th {
 
 <table>
     <tr>
-        <th>When (UTC-4)</th>
+        <th nowrap>When<br/>(UTC-4)</th>
         <th>What</th>
         <th>Who</th>
         <th>Resources</th>
