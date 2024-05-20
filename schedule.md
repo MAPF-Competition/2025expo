@@ -66,32 +66,40 @@ tbody tr:nth-child(odd) th {
     <tr>
         <td>17:00 </td>
         <td  style="text-align:left;">Scaling Lifelong Multi-Agent Path Finding to More Realistic Settings: Research Challenges and Opportunities</td>
-        <td style="text-align:left;">He Jiang, Yulun Zhang, Rishi Veerapaneni and Jiaoyang Li</td>
+        <td style="text-align:left;">He Jiang<sup>*</sup>, Yulun Zhang, Rishi Veerapaneni and Jiaoyang Li</td>
         <td>
+        <a target="_blank" href="{{ site.url }}/resources/pikachu.pdf">Report</a>
+        <br/>
         <a target="_blank" href="https://github.com/MAPF-Competition/Code-Archive/tree/master/2023%20Competition/Team_Pikachu">Source</a>
         </td>
     </tr>
     <tr>
         <td>17:15 </td>
         <td  style="text-align:left;">Shadoks Approach for Lifelong Multi-Agent Path Finding</td>
-        <td style="text-align:left;">Aldo Gonzalez-Lorenzo and Guilherme D. da Fonseca</td>
+        <td style="text-align:left;">Aldo Gonzalez-Lorenzo<sup>*</sup> and Guilherme D. da Fonseca</td>
         <td>
+        <a target="_blank" href="{{ site.url }}/resources/shadoks.pdf">Report</a>
+        <br/>
         <a target="_blank" href="https://github.com/MAPF-Competition/Code-Archive/tree/master/2023%20Competition/Team_Shadoks">Source</a>
         </td>
     </tr>
     <tr>
         <td>17:30 </td>
         <td  style="text-align:left;">Description of Ideas Used in League of Robot Runners 2023</td>
-        <td style="text-align:left;">Márton Ambrus-Dobai</td>
+        <td style="text-align:left;">Márton Ambrus-Dobai<sup>*</sup></td>
         <td>
+        <a target="_blank" href="{{ site.url }}/resources/Márton_Ambrus-Dobai.pdf">Report</a>
+        <br/>
         <a target="_blank" href="https://github.com/MAPF-Competition/Code-Archive/tree/master/2023%20Competition/Team_M%C3%A1rton_Ambrus-Dobai">Source</a>
         </td>
     </tr>
     <tr>
         <td>17:45 </td>
         <td  style="text-align:left;">Puzzle Heuristics: Efficient Lifelong Multi-Agent Pathfinding Algorithm for Large-scale Challenging Environments</td>
-        <td style="text-align:left;">Wonjong Lee, Joonyeol Sim and Changjoo Nam</td>
+        <td style="text-align:left;">Wonjong Lee<sup>*</sup>, Joonyeol Sim<sup>*</sup> and Changjoo Nam</td>
         <td>
+        <a target="_blank" href="{{ site.url }}/resources/AIRLAB.pdf">Report</a>
+        <br/>
         <a target="_blank" href="https://github.com/MAPF-Competition/Code-Archive/tree/master/2023%20Competition/Team_AIRLAB">Source</a>
         </td>
     </tr>
@@ -118,3 +126,7 @@ tbody tr:nth-child(odd) th {
     </tr>
 
 </table>
+
+<p>
+<sup>*</sup> Presenter of the work.
+</p>
