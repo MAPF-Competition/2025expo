@@ -32,7 +32,7 @@ tbody tr:nth-child(odd) th {
         <td>15:30</td>
         <td>Opening</td>
         <td>-</td>
-        <td>-</td>
+        <td><a target="_blank" href="https://www.youtube.com/watch?v=ziqnPHsixkE&list=PLlLnPGrmVZcPLf_TqnMqzzWrzTCQ-106m&index=1">Recording</a></td>
     </tr>
     <tr>
         <td colspan=4 style="background-color: #f9f9f9;"><strong>Session 1</strong> (Chair: Daniel Harabor)</td>
@@ -43,7 +43,7 @@ tbody tr:nth-child(odd) th {
         <strong>(Invited Talk)</strong>
         </td>
         <td style="text-align:left;">Federico Pecora</td>
-        <td>-</td>
+        <td><a target="_blank" href="https://www.youtube.com/watch?v=_T4YWOnMlcA&list=PLlLnPGrmVZcPLf_TqnMqzzWrzTCQ-106m&index=2">Recording</a></td>
     </tr>
     <!-- <tr>
         <td colspan=4><i>2023 Main Round Competition</i></td>
@@ -52,7 +52,7 @@ tbody tr:nth-child(odd) th {
         <td>16:20 </td>
         <td  style="text-align:left;">Competition Overview and Award Ceremony</td>
         <td>-</td>
-        <td>-</td>
+        <td><a target="_blank" href="https://www.youtube.com/watch?v=GMXQ6yWLy_s&list=PLlLnPGrmVZcPLf_TqnMqzzWrzTCQ-106m&index=3">Recording</a></td>
     </tr>
     <tr>
         <td>16:50</td>
@@ -71,6 +71,7 @@ tbody tr:nth-child(odd) th {
         <a target="_blank" href="{{ site.url }}/resources/pikachu.pdf">Report</a>
         <br/>
         <a target="_blank" href="https://github.com/MAPF-Competition/Code-Archive/tree/master/2023%20Competition/Team_Pikachu">Source</a>
+        <a target="_blank" href="https://www.youtube.com/watch?v=vXWZ-b6quHc&list=PLlLnPGrmVZcPLf_TqnMqzzWrzTCQ-106m&index=4">Recording</a>
         </td>
     </tr>
     <tr>
@@ -81,6 +82,7 @@ tbody tr:nth-child(odd) th {
         <a target="_blank" href="{{ site.url }}/resources/shadoks.pdf">Report</a>
         <br/>
         <a target="_blank" href="https://github.com/MAPF-Competition/Code-Archive/tree/master/2023%20Competition/Team_Shadoks">Source</a>
+        <a target="_blank" href="https://www.youtube.com/watch?v=1ZtbaI5Z9Rk&list=PLlLnPGrmVZcPLf_TqnMqzzWrzTCQ-106m&index=5">Recording</a>
         </td>
     </tr>
     <tr>
@@ -91,16 +93,18 @@ tbody tr:nth-child(odd) th {
         <a target="_blank" href="{{ site.url }}/resources/Márton_Ambrus-Dobai.pdf">Report</a>
         <br/>
         <a target="_blank" href="https://github.com/MAPF-Competition/Code-Archive/tree/master/2023%20Competition/Team_M%C3%A1rton_Ambrus-Dobai">Source</a>
+        <a target="_blank" href="https://www.youtube.com/watch?v=QjYdC43XZ34&list=PLlLnPGrmVZcPLf_TqnMqzzWrzTCQ-106m&index=6">Recording</a>
         </td>
     </tr>
     <tr>
         <td>17:45 </td>
         <td  style="text-align:left;">Puzzle Heuristics: Efficient Lifelong Multi-Agent Pathfinding Algorithm for Large-scale Challenging Environments</td>
-        <td style="text-align:left;">Wonjong Lee<sup>*</sup>, Joonyeol Sim<sup>*</sup> and Changjoo Nam</td>
+        <td style="text-align:left;">Wonjong Lee<sup>*</sup>, Joonyeol Sim and Changjoo Nam</td>
         <td>
         <a target="_blank" href="{{ site.url }}/resources/AIRLAB.pdf">Report</a>
         <br/>
         <a target="_blank" href="https://github.com/MAPF-Competition/Code-Archive/tree/master/2023%20Competition/Team_AIRLAB">Source</a>
+        <a target="_blank" href="https://www.youtube.com/watch?v=ur1VQQX_vhI&list=PLlLnPGrmVZcPLf_TqnMqzzWrzTCQ-106m&index=7">Recording</a>
         </td>
     </tr>
     <tr>
@@ -110,7 +114,7 @@ tbody tr:nth-child(odd) th {
         <td>18:00 </td>
         <td  style="text-align:left;">2024 Competition Announcement </td>
         <td>-</td>
-        <td>-</td>
+        <td><a target="_blank" href="https://www.youtube.com/watch?v=PgrpkweN_S0&list=PLlLnPGrmVZcPLf_TqnMqzzWrzTCQ-106m&index=8">Recording</a></td>
     </tr>
      <tr>
         <td>18:05 </td>
