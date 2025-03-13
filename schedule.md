@@ -21,7 +21,8 @@ tbody tr:nth-child(odd) th {
 }
 </style>
 
-<table>
+<p>Coming soon</p>
+<!-- <table>
     <tr>
         <th nowrap>When<br/>(UTC-4)</th>
         <th>What</th>
@@ -133,4 +134,4 @@ tbody tr:nth-child(odd) th {
 
 <p>
 <sup>*</sup> Presenter of the work.
-</p>
+</p> -->

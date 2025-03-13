@@ -3,11 +3,12 @@ layout: page
 title: Invited Speaker
 ---
 
+<p>Coming soon.</p>
 <!-- |  |  |
 | --- | --- |
 | [Speaker]({{ site.github.repo }}/organisers/fede-pic.jpeg) | **Federico Pecora** Senior Manager, Applied Science at Amazon Robotics Details for the talk will be available soon. | -->
 <!-- generate two column table in html using the content in the commented markdown table with inline style. center the image -->
-<div style="display: flex; justify-content: center;">
+<!-- <div style="display: flex; justify-content: center;">
     <div style="width: 35%;display: flex; justify-content: center;">
         <img src="{{ site.github.repo }}/organisers/fede-pic.jpeg" alt="Federico Pecora" style="margin-top:auto;margin-bottom:auto;width:171px;height:auto; border-radius: 10%">
     </div>
@@ -31,5 +32,5 @@ title: Invited Speaker
     <p>
         <strong>Bio:</strong> Federico Pecora is a Senior Manager of Applied Science at Amazon Robotics. His research lies at the intersection of Artificial Intelligence and Robotics and focuses on combining methods from these two fields to develop solutions with high impact in society and industry. He believes in the alternation of application-driven and basic research: problems in concrete application settings often pose the most interesting and general research challenges, and addressing these challenges leads to better solutions for real applications. Federico leads the Movement Science team at AR's Research, Applied and Data Science organization.
     </p>
-</div>
+</div> -->
 
