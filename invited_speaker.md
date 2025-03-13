@@ -24,7 +24,6 @@ title: Invited Speaker
         <br/>
     </div>
 </div>
-
 <div style="justify-content: center;">
     <p>
         <strong>Abstract:</strong> Amazon tackles the problem of coordinating a heterogeneous fleet of hundreds of thousands of robots to go from a website click to a delivery at your door. We leverage problem decomposition to solve this huge optimization problem. In this talk I will provide an overview of the underlying motion, allocation, perception, and manipulation sub-problems, and discuss some of the challenges and opportunities their integration poses for research in MAPF.
