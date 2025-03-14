@@ -21,7 +21,7 @@ tbody tr:nth-child(odd) th {
 }
 </style>
 
-<p>Coming soon</p>
+<p>Coming soon.</p>
 <!-- <table>
     <tr>
         <th nowrap>When<br/>(UTC-4)</th>
