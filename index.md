@@ -12,6 +12,7 @@ The League of Robot Runners virtual expo is a community event where we celebrate
 This is a **free event** for researchers and practioners interested in the League of Robot Runners competition and in the area of Multi-Agent Path Finding. 
 
 **More details coming soon.**
+
 We welcome [submissions](./call_for_submission/) for the technical program (informal, non-archival) from all teams and team memebers that participated the 2024 main round.
 Attendance is open to anyone, including non-competitors and students. Please refer to the [registration](./registration/) page for more details.
 

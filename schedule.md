@@ -50,9 +50,6 @@ Stay tuned for the detailed schedule, coming soon!
         <td style="text-align:left;">Federico Pecora</td>
         <td><a target="_blank" href="https://www.youtube.com/watch?v=NAmxp03wh2g&list=PLlLnPGrmVZcPLf_TqnMqzzWrzTCQ-106m&index=2">Recording</a></td>
     </tr>
-    <!-- <tr>
-        <td colspan=4><i>2023 Main Round Competition</i></td>
-    </tr> -->
     <tr>
         <td>16:20 </td>
         <td  style="text-align:left;">Competition Overview and Award Ceremony</td>
@@ -135,7 +132,6 @@ Stay tuned for the detailed schedule, coming soon!
     </tr>
 
 </table>
-
 <p>
 <sup>*</sup> Presenter of the work.
 </p> -->

@@ -3,15 +3,11 @@ layout: page
 title: Invited Speaker
 ---
 
-<p>Coming soon.</p>
 <!-- |  |  |
 | --- | --- |
 | [Speaker]({{ site.github.repo }}/organisers/fede-pic.jpeg) | **Federico Pecora** Senior Manager, Applied Science at Amazon Robotics Details for the talk will be available soon. | -->
 <!-- generate two column table in html using the content in the commented markdown table with inline style. center the image -->
 <div style="display: flex; justify-content: center;">
-    <div style="width: 35%;display: flex; justify-content: center;">
-        <!-- <img src="{{ site.github.repo }}/organisers/fede-pic.jpeg" alt="Federico Pecora" style="margin-top:auto;margin-bottom:auto;width:171px;height:auto; border-radius: 10%"> -->
-    </div>
     <div style="width: 65%;margin-left:10px">
         <h3>Alexandre Barbosa
         <br/>
@@ -19,16 +15,14 @@ title: Invited Speaker
         </h3>
         <br/>
     </div>
-</div>
-<div style="justify-content: center;">
-    <p>
-        Stay tuned for more details!
-    </p>
-</div>
-<div style="display: flex; justify-content: center;">
     <div style="width: 35%;display: flex; justify-content: center;">
         <!-- <img src="{{ site.github.repo }}/organisers/fede-pic.jpeg" alt="Federico Pecora" style="margin-top:auto;margin-bottom:auto;width:171px;height:auto; border-radius: 10%"> -->
+        <p>
+        Stay tuned for more details!
+        </p>
     </div>
+</div>
+<div style="display: flex; justify-content: center;">
     <div style="width: 65%;margin-left:10px">
         <h3>Amanda Prorok
         <br/>
@@ -36,10 +30,11 @@ title: Invited Speaker
         </h3>
         <br/>
     </div>
-</div>
-<div style="justify-content: center;">
-    <p>
+     <div style="width: 35%;display: flex; justify-content: center;">
+        <!-- <img src="{{ site.github.repo }}/organisers/fede-pic.jpeg" alt="Federico Pecora" style="margin-top:auto;margin-bottom:auto;width:171px;height:auto; border-radius: 10%"> -->
+        <p>
         Stay tuned for more details!
-    </p>
+        </p>
+    </div>
 </div>
 

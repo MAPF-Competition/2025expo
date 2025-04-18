@@ -43,7 +43,7 @@ Submissions take the form of a technical report describing a topic of interest a
 
 All deadlines are “anywhere on earth” (UTC-12). 
 
-For any questions about this call, please reach out via email to the following address: [organisers@leagueofrobotrunners.org](mailto:organisers@leagueofrobotrunners.org).
+For any questions about this call, please reach out via email to the following address: [league-of-robot-runners@googlegroups.com](mailto:league-of-robot-runners@googlegroups.com).
 
 We look forward to your submissions\!  
 
