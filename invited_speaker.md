@@ -17,9 +17,6 @@ title: Invited Speaker
     </div>
     <div style="width: 35%;display: flex; justify-content: center;">
         <!-- <img src="{{ site.github.repo }}/organisers/fede-pic.jpeg" alt="Federico Pecora" style="margin-top:auto;margin-bottom:auto;width:171px;height:auto; border-radius: 10%"> -->
-        <p>
-        Stay tuned for more details!
-        </p>
     </div>
 </div>
 <div style="display: flex; justify-content: center;">
@@ -32,9 +29,10 @@ title: Invited Speaker
     </div>
      <div style="width: 35%;display: flex; justify-content: center;">
         <!-- <img src="{{ site.github.repo }}/organisers/fede-pic.jpeg" alt="Federico Pecora" style="margin-top:auto;margin-bottom:auto;width:171px;height:auto; border-radius: 10%"> -->
-        <p>
-        Stay tuned for more details!
-        </p>
     </div>
 </div>
+
+<p>
+Stay tuned for more details!
+</p>
 
