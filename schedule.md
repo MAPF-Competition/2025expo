@@ -3,11 +3,7 @@ layout: page
 title: Schedule
 ---
 
-<!-- | **Time (UTC-4)** | **Event** | **Title**| **Speaker** | **Resources** |
-|:---:|:---:|:---:|:---:|:---:|
-| 15:30 - 15:35 | Opening | | | | - |
-| 15:35 - 16:00 | Invited Talk | From Click to Delivery: Challenges and Opportunities in Multi-Agent Path Finding at Amazon | Federico Pecora | - |
-| 16:00 - 16:30 | Technical Talk | Team 1 | - | -->
+
 <style>
    td,th {
     text-align: center;
@@ -21,7 +17,15 @@ tbody tr:nth-child(odd) th {
 }
 </style>
 
-<p>Coming soon.</p>
+## What to expect:
+* Awards and prizes  
+* Keynote speakers from industry and academia  
+* Technical talks from successful participants  
+* Community discussion and feedback  
+* Next steps for the League 
+
+Stay tuned for the detailed schedule, coming soon!
+
 <!-- <table>
     <tr>
         <th nowrap>When<br/>(UTC-4)</th>

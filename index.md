@@ -12,21 +12,21 @@ The League of Robot Runners virtual expo is a community event where we celebrate
 This is a **free event** for researchers and practioners interested in the League of Robot Runners competition and in the area of Multi-Agent Path Finding. 
 
 **More details coming soon.**
-<!-- We welcome [submissions](./call_for_submission/) for the technical program (informal, non-archival) from all teams and team memebers that participated the 2023 main round.
-Attendance is open to anyone, including non-competitors and students. Please refer to the [registration](./registration/) page for more details. -->
+We welcome [submissions](./call_for_submission/) for the technical program (informal, non-archival) from all teams and team memebers that participated the 2024 main round.
+Attendance is open to anyone, including non-competitors and students. Please refer to the [registration](./registration/) page for more details.
 
-<!-- **Program Highlights:**
+**Program Highlights:**
 
 The [technical program](./schedule/) features a number of sessions which will be of interest to competition participants and interested members of the broader community:
 
-* [Industry Keynote](./invited_speaker/) from Federico Pecora (Amazon Robotics).
+* [Industry Keynote](./invited_speaker/) from industry and academia.
 * Awards Ceremony, to celebrate distinguished and noteworthy performances.
 * Technical talks from competing teams and team members.
-* Community meeting, to discuss the future direction of the competition. -->
+* Community meeting, to discuss the future direction of the competition.
 
 **Event Details:**
 * Date: June 2nd, 2025
-* Time: 8 am EDT (UTC-4)
+* Time: 9 am EDT (UTC-4)
 * Location: the event will be held online via Zoom and participation instructions will be provided to registered attendees.
 
 <style>

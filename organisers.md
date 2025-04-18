@@ -11,7 +11,6 @@ title: Organisers
 
 ## Organising Committee
 - Zhe Chen, Monash University
-- Teng Guo, Rutgers University
+- Yimin Tang, University of Southern California
 - Duo Zhang, Rutgers University
-- Han Zhang, University of Southern California
 - Yue Zhang, Monash University
