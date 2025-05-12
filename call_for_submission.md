@@ -35,7 +35,7 @@ Submissions take the form of a technical report describing a topic of interest a
 
 **Important Dates:**
 
-* Abstract deadline: 9th May 2025  
+* <s>Abstract deadline: 9th May 2025</s>
 * Submission deadline: 20th May 2025  
 * Paper notification: 26th May 2025  
 * Final version: 1st June 2025
