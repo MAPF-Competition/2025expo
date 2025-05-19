@@ -8,10 +8,10 @@ title: Invited Speaker
 | [Speaker]({{ site.github.repo }}/organisers/fede-pic.jpeg) | **Federico Pecora** Senior Manager, Applied Science at Amazon Robotics Details for the talk will be available soon. | -->
 <!-- generate two column table in html using the content in the commented markdown table with inline style. center the image -->
 <div style="display: flex; justify-content: center;">
-    <div style="width: 40%;display: flex; justify-content: center;">
+    <div style="width: 30%;display: flex; justify-content: center;">
         <img src="{{ site.github.repo }}/resources/alex_barbosa.jpg" alt="Alex Barbosa" style="margin-top:auto;margin-bottom:auto;width:171px;height:auto; border-radius: 10%">
     </div>
-    <div style="width: 60%;margin-left:10px">
+    <div style="width: 70%;margin-left:10px">
         <h3>
             Guidance cost maps and deep storage retrieval: improving Amazon's warehouses via MAPF
         </h3>
@@ -29,10 +29,10 @@ title: Invited Speaker
 </div>
 <hr/>
 <div style="display: flex; justify-content: center;">
-    <div style="width: 40%;display: flex; justify-content: center;">
+    <div style="width: 30%;display: flex; justify-content: center;">
         <img src="{{ site.github.repo }}/resources/Amanda.jpg" alt="Amanda Porok" style="margin-top:auto;margin-bottom:auto;width:171px;height:auto; border-radius: 10%">
     </div>
-    <div style="width: 60%;margin-left:10px">
+    <div style="width: 70%;margin-left:10px">
         <h3>
         Using Graph Neural Networks to Learn to Navigate in Multi-Robot Systems
         </h3>
