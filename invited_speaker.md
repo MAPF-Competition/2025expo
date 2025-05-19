@@ -32,7 +32,7 @@ title: Invited Speaker
     <div style="width: 40%;display: flex; justify-content: center;">
         <img src="{{ site.github.repo }}/resources/Amanda.jpg" alt="Amanda Porok" style="margin-top:auto;margin-bottom:auto;width:171px;height:auto; border-radius: 10%">
     </div>
-    <div style="width: 90%;margin-left:10px">
+    <div style="width: 60%;margin-left:10px">
         <h3>
         Using Graph Neural Networks to Learn to Navigate in Multi-Robot Systems
         </h3>
