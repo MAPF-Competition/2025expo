@@ -23,9 +23,9 @@ title: Invited Speaker
     </div>
 </div>
 <div style="display: flex; justify-content: center;">
-    <!-- <p>
-        <b>Speaker Bio: </b> 
-    </p> -->
+    <p>
+        <b>Speaker Bio: </b> Alex Barbosa is a Sr. Research Scientist at Amazon Robotics with over 15 years of industry experience. He received his Ph.D. in Mechanical Engineering from the University of Illinois in 2020, where he collaborated with the Department of Crop Sciences on large-scale optimization of crop management. He is mainly interested in the intersection between signal processing, controls and machine learning, with a focus on problems with a large actuation space.
+    </p>
 </div>
 <hr/>
 <div style="display: flex; justify-content: center;">
@@ -52,7 +52,4 @@ title: Invited Speaker
 
 </div>
 
-<p>
-Stay tuned for more details!
-</p>
 
