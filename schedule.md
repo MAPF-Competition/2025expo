@@ -81,7 +81,7 @@ tbody tr:nth-child(odd) th {
     </tr>
     <tr>
         <td>10:40 </td>
-        <td  style="text-align:left;">[Ausdroid-unimelb] Scalable Online Multi-Agent Path Planning: A Hybrid Method with Adaptive Scheduling and Conflict-Minimizing Conflict-Based Search</td>
+        <td  style="text-align:left;">[Team Ausdroid-unimelb] Scalable Online Multi-Agent Path Planning: A Hybrid Method with Adaptive Scheduling and Conflict-Minimizing Conflict-Based Search</td>
         <td style="text-align:left;">Qihao Shen, Dajun Guo, Katherine Ip, Guang Hu, Yangmengfei Xu and Chenyuan Zhang</td>
         <td>
         -
