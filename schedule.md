@@ -17,16 +17,7 @@ tbody tr:nth-child(odd) th {
 }
 </style>
 
-## What to expect:
-* Awards and prizes  
-* Keynote speakers from industry and academia  
-* Technical talks from successful participants  
-* Community discussion and feedback  
-* Next steps for the League 
-
-Stay tuned for the detailed schedule, coming soon!
-
-<!-- <table>
+<table>
     <tr>
         <th nowrap>When<br/>(UTC-4)</th>
         <th>What</th>
@@ -34,30 +25,25 @@ Stay tuned for the detailed schedule, coming soon!
         <th>Resources</th>
     </tr>
     <tr>
-        <td>15:30</td>
-        <td>Opening</td>
+        <td>09:00</td>
+        <td>Welcome and Competition Overview</td>
+        <td>Daniel Harabor</td>
         <td>-</td>
-        <td><a target="_blank" href="https://www.youtube.com/watch?v=OCz89gpv6Dc&list=PLlLnPGrmVZcPLf_TqnMqzzWrzTCQ-106m&index=1">Recording</a></td>
     </tr>
     <tr>
         <td colspan=4 style="background-color: #f9f9f9;"><strong>Session 1</strong> (Chair: Daniel Harabor)</td>
     </tr>
     <tr>
-        <td>15:35 </td>
-        <td style="text-align:left;">From Click to Delivery: <br/> Challenges and Opportunities in Multi-Agent Path Finding at Amazon <br/>
+        <td>09:15 </td>
+        <td style="text-align:left;">
+        Using Graph Neural Networks to Learn to Navigate in Multi-Robot Systems
         <strong>(Invited Talk)</strong>
         </td>
-        <td style="text-align:left;">Federico Pecora</td>
-        <td><a target="_blank" href="https://www.youtube.com/watch?v=NAmxp03wh2g&list=PLlLnPGrmVZcPLf_TqnMqzzWrzTCQ-106m&index=2">Recording</a></td>
-    </tr>
-    <tr>
-        <td>16:20 </td>
-        <td  style="text-align:left;">Competition Overview and Award Ceremony</td>
+        <td style="text-align:left;">Amanda Prorok</td>
         <td>-</td>
-        <td><a target="_blank" href="https://www.youtube.com/watch?v=GMXQ6yWLy_s&list=PLlLnPGrmVZcPLf_TqnMqzzWrzTCQ-106m&index=3">Recording</a></td>
     </tr>
     <tr>
-        <td>16:50</td>
+        <td>10:00</td>
         <td><i>Coffee Break</i></td>
         <td>-</td>
         <td>-</td>
@@ -66,66 +52,103 @@ Stay tuned for the detailed schedule, coming soon!
         <td colspan="4" style="background-color: #f9f9f9;"><strong>Session 2</strong> (Chair: Yue Zhang)</td>
     </tr>
     <tr>
-        <td>17:00 </td>
-        <td  style="text-align:left;">Scaling Lifelong Multi-Agent Path Finding to More Realistic Settings: Research Challenges and Opportunities</td>
-        <td style="text-align:left;">He Jiang<sup>*</sup>, Yulun Zhang, Rishi Veerapaneni and Jiaoyang Li</td>
+        <td>10:10 </td>
+        <td  style="text-align:left;">[Team No Man's Sky] Enhancing PIBT via multi-action operations</td>
+        <td style="text-align:left;">Egor Yukhnevich and Anton Andreychuk</td>
         <td>
-        <a target="_blank" href="{{ site.url }}/resources/pikachu.pdf">Report</a>
-        <br/>
-        <a target="_blank" href="https://github.com/MAPF-Competition/Code-Archive/tree/master/2023%20Competition/Team_Pikachu">Source</a>
-        <a target="_blank" href="https://www.youtube.com/watch?v=vXWZ-b6quHc&list=PLlLnPGrmVZcPLf_TqnMqzzWrzTCQ-106m&index=4">Recording</a>
+        -
         </td>
     </tr>
     <tr>
-        <td>17:15 </td>
-        <td  style="text-align:left;">Shadoks Approach for Lifelong Multi-Agent Path Finding</td>
-        <td style="text-align:left;">Aldo Gonzalez-Lorenzo<sup>*</sup> and Guilherme D. da Fonseca</td>
+        <td>10:25 </td>
+        <td  style="text-align:left;">[Team Verstand] Fast Task Assignment in Large-Scale Multi-Goal Task Assignment and Path Finding</td>
+        <td style="text-align:left;">
+            Ye Gao,
+            Hang Ding,
+            Yuxuan Wang, 
+            Junjie Zhang, 
+            Qian Sun,
+            Qian Zhang,
+            Yiwen Huang,
+            Mao Luo,
+            Zhouxing Su,
+            Junwen Ding,
+            and Zhipeng Lü
+        </td>
         <td>
-        <a target="_blank" href="{{ site.url }}/resources/shadoks.pdf">Report</a>
-        <br/>
-        <a target="_blank" href="https://github.com/MAPF-Competition/Code-Archive/tree/master/2023%20Competition/Team_Shadoks">Source</a>
-        <a target="_blank" href="https://www.youtube.com/watch?v=1ZtbaI5Z9Rk&list=PLlLnPGrmVZcPLf_TqnMqzzWrzTCQ-106m&index=5">Recording</a>
+        -
         </td>
     </tr>
     <tr>
-        <td>17:30 </td>
-        <td  style="text-align:left;">Description of Ideas Used in League of Robot Runners 2023</td>
-        <td style="text-align:left;">Márton Ambrus-Dobai<sup>*</sup></td>
+        <td>10:40 </td>
+        <td  style="text-align:left;">[Ausdroid-unimelb] Scalable Online Multi-Agent Path Planning: A Hybrid Method with Adaptive Scheduling and Conflict-Minimizing Conflict-Based Search</td>
+        <td style="text-align:left;">Qihao Shen, Dajun Guo, Katherine Ip, Guang Hu, Yangmengfei Xu and Chenyuan Zhang</td>
         <td>
-        <a target="_blank" href="{{ site.url }}/resources/Márton_Ambrus-Dobai.pdf">Report</a>
-        <br/>
-        <a target="_blank" href="https://github.com/MAPF-Competition/Code-Archive/tree/master/2023%20Competition/Team_M%C3%A1rton_Ambrus-Dobai">Source</a>
-        <a target="_blank" href="https://www.youtube.com/watch?v=QjYdC43XZ34&list=PLlLnPGrmVZcPLf_TqnMqzzWrzTCQ-106m&index=6">Recording</a>
+        -
         </td>
     </tr>
     <tr>
-        <td>17:45 </td>
-        <td  style="text-align:left;">Puzzle Heuristics: Efficient Lifelong Multi-Agent Pathfinding Algorithm for Large-scale Challenging Environments</td>
-        <td style="text-align:left;">Wonjong Lee<sup>*</sup>, Joonyeol Sim and Changjoo Nam</td>
-        <td>
-        <a target="_blank" href="{{ site.url }}/resources/AIRLAB.pdf">Report</a>
-        <br/>
-        <a target="_blank" href="https://github.com/MAPF-Competition/Code-Archive/tree/master/2023%20Competition/Team_AIRLAB">Source</a>
-        <a target="_blank" href="https://www.youtube.com/watch?v=ur1VQQX_vhI&list=PLlLnPGrmVZcPLf_TqnMqzzWrzTCQ-106m&index=7">Recording</a>
+        <td>10:55 </td>
+        <td  style="text-align:left;">[Team SYSU-LCIS] Scaling Multi-Agent Path Planning with CUDA: From Competition Success to Future Vision</td>
+        <td style="text-align:left;">
+        Jin-Sheng Yang, 
+        Hong-Xin Zhang,
+        Hao-Dong Chen,
+        and Jun-Bo Wang
         </td>
+        <td>
+        -
+        </td>
+    </tr>
+    <tr>
+        <td>11:10 </td>
+        <td  style="text-align:left;">[Team Kitty Knight] TBD</td>
+        <td style="text-align:left;">
+        He Jiang,
+        Yulun Zhang, 
+        Shuze Chen,
+        Rishi Veerapaneni, 
+        Tianyi Peng,
+        and Jiaoyang Li
+        </td>
+        <td>
+        -
+        </td>
+    </tr>
+    <tr>
+        <td>11:25</td>
+        <td><i>Coffee Break</i></td>
+        <td>-</td>
+        <td>-</td>
     </tr>
     <tr>
         <td colspan="4" style="background-color: #f9f9f9;"><strong>Session 3</strong> (Chair: Zhe Chen)</td>
     </tr>
     <tr>
-        <td>18:00 </td>
-        <td  style="text-align:left;">2024 Competition Announcement </td>
+        <td>11:35 </td>
+        <td style="text-align:left;">Guidance cost maps and deep storage retrieval: improving Amazon's warehouses via MAPF
+        <strong>(Invited Talk)</strong>
+        </td>
+        <td style="text-align:left;">Alexandre Barbosa</td>
         <td>-</td>
-        <td><a target="_blank" href="https://www.youtube.com/watch?v=PgrpkweN_S0&list=PLlLnPGrmVZcPLf_TqnMqzzWrzTCQ-106m&index=8">Recording</a></td>
+    </tr>
+    <tr>
+        <td colspan="4" style="background-color: #f9f9f9;"><strong>Session 4</strong> (Chair: Daniel Harabor)</td>
+    </tr>
+    <tr>
+        <td>12:20 </td>
+        <td  style="text-align:left;">Award Ceremony</td>
+        <td>-</td>
+        <td>-</td>
     </tr>
      <tr>
-        <td>18:05 </td>
+        <td>12:30 </td>
         <td  style="text-align:left;">Community Discussion</td>
         <td>-</td>
         <td>-</td>
     </tr>
     <tr>
-        <td>18:30 </td>
+        <td>13:15 </td>
         <td  style="text-align:left;">End</td>
         <td>-</td>
         <td>-</td>
@@ -134,4 +157,4 @@ Stay tuned for the detailed schedule, coming soon!
 </table>
 <p>
 <sup>*</sup> Presenter of the work.
-</p> -->
+</p>
