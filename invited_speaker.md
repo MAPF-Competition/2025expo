@@ -17,7 +17,7 @@ title: Invited Speaker
         </h3>
         <h3>Alexandre Barbosa
         <br/>
-        <small style="font-size: 18.75px; color: #c0c0c0;">Senior Applied Scientist, Amazon Robotics</small>
+        <small style="font-size: 18.75px; color: #c0c0c0;">Senior Research Scientist, Amazon Robotics</small>
         </h3>
         <br/>
     </div>
