@@ -54,7 +54,7 @@ tbody tr:nth-child(odd) th {
     <tr>
         <td>10:10 </td>
         <td  style="text-align:left;">[Team No Man's Sky] Enhancing PIBT via multi-action operations</td>
-        <td style="text-align:left;">Egor Yukhnevich and <b>Anton Andreychuk</b></td>
+        <td style="text-align:left;">Egor Yukhnevich and <b>Anton Andreychuk*</b></td>
         <td>
         -
         </td>
@@ -82,7 +82,7 @@ tbody tr:nth-child(odd) th {
     <tr>
         <td>10:40 </td>
         <td  style="text-align:left;">[Team Ausdroid-unimelb] Scalable Online Multi-Agent Path Planning: A Hybrid Method with Adaptive Scheduling and Conflict-Minimizing Conflict-Based Search</td>
-        <td style="text-align:left;">Qihao Shen, Dajun Guo, <b>Katherine Ip</b>, Guang Hu, Yangmengfei Xu and Chenyuan Zhang</td>
+        <td style="text-align:left;">Qihao Shen, Dajun Guo, <b>Katherine Ip*</b>, Guang Hu, Yangmengfei Xu and Chenyuan Zhang</td>
         <td>
         -
         </td>
