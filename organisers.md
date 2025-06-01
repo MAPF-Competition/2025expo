@@ -10,7 +10,7 @@ title: Organisers
 - Jingjin Yu, Rutgers University
 
 ## Organising Committee
-- Zhe Chen, Monash University
+- Zhe Chen, Amazon Robotics and Monash University
 - Yimin Tang, University of Southern California
 - Duo Zhang, Rutgers University
 - Yue Zhang, Monash University
