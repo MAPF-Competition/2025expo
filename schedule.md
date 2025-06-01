@@ -54,7 +54,7 @@ tbody tr:nth-child(odd) th {
     <tr>
         <td>10:10 </td>
         <td  style="text-align:left;">[Team No Man's Sky] Enhancing PIBT via multi-action operations</td>
-        <td style="text-align:left;">Egor Yukhnevich and Anton Andreychuk</td>
+        <td style="text-align:left;">Egor Yukhnevich and <b>Anton Andreychuk</b></td>
         <td>
         -
         </td>
@@ -63,7 +63,7 @@ tbody tr:nth-child(odd) th {
         <td>10:25 </td>
         <td  style="text-align:left;">[Team Verstand] Fast Task Assignment in Large-Scale Multi-Goal Task Assignment and Path Finding</td>
         <td style="text-align:left;">
-            Ye Gao,
+            <b>Ye Gao*</b>,
             Hang Ding,
             Yuxuan Wang, 
             Junjie Zhang, 
@@ -82,7 +82,7 @@ tbody tr:nth-child(odd) th {
     <tr>
         <td>10:40 </td>
         <td  style="text-align:left;">[Team Ausdroid-unimelb] Scalable Online Multi-Agent Path Planning: A Hybrid Method with Adaptive Scheduling and Conflict-Minimizing Conflict-Based Search</td>
-        <td style="text-align:left;">Qihao Shen, Dajun Guo, Katherine Ip, Guang Hu, Yangmengfei Xu and Chenyuan Zhang</td>
+        <td style="text-align:left;">Qihao Shen, Dajun Guo, <b>Katherine Ip</b>, Guang Hu, Yangmengfei Xu and Chenyuan Zhang</td>
         <td>
         -
         </td>
@@ -91,7 +91,7 @@ tbody tr:nth-child(odd) th {
         <td>10:55 </td>
         <td  style="text-align:left;">[Team SYSU-LCIS] Scaling Multi-Agent Path Planning with CUDA: From Competition Success to Future Vision</td>
         <td style="text-align:left;">
-        Jin-Sheng Yang, 
+        <b>Jin-Sheng Yang*</b>, 
         Hong-Xin Zhang,
         Hao-Dong Chen,
         and Jun-Bo Wang
@@ -102,13 +102,13 @@ tbody tr:nth-child(odd) th {
     </tr>
     <tr>
         <td>11:10 </td>
-        <td  style="text-align:left;">[Team Kitty Knight] TBD</td>
+        <td  style="text-align:left;">[Team Kitty Knight] Multi-Agent Warehouse Coordination: A Preliminary Exploration with Reinforcement Learning</td>
         <td style="text-align:left;">
         He Jiang,
         Yulun Zhang, 
         Shuze Chen,
         Rishi Veerapaneni, 
-        Tianyi Peng,
+        <b>Tianyi Peng*</b>,
         and Jiaoyang Li
         </td>
         <td>
