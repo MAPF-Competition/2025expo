@@ -28,7 +28,7 @@ tbody tr:nth-child(odd) th {
         <td>09:00</td>
         <td>Welcome and Competition Overview</td>
         <td>Daniel Harabor</td>
-        <td>-</td>
+        <td><a target="_blank" href="https://youtu.be/rHQCSFHeros?si=Dr4H4nl9GI2oOIGh">Recording</a></td>
     </tr>
     <tr>
         <td colspan=4 style="background-color: #f9f9f9;"><strong>Session 1</strong> (Chair: Daniel Harabor)</td>
@@ -40,7 +40,7 @@ tbody tr:nth-child(odd) th {
         <strong>(Invited Talk)</strong>
         </td>
         <td style="text-align:left;">Amanda Prorok</td>
-        <td>-</td>
+        <td><a target="_blank" href="https://youtu.be/XSJ2hiGMiIk?si=Dt0Uskw5AbQS5acO">Recording</a></td>
     </tr>
     <tr>
         <td>10:00</td>
@@ -56,7 +56,9 @@ tbody tr:nth-child(odd) th {
         <td  style="text-align:left;">[Team No Man's Sky] Enhancing PIBT via multi-action operations</td>
         <td style="text-align:left;">Egor Yukhnevich and <b>Anton Andreychuk*</b></td>
         <td>
-        -
+        <a target="_blank" href="{{ site.url }}/resources/No-Man-Sky.pdf">Report</a>
+        <br/>
+        <a target="_blank" href="https://youtu.be/R1UZ8TmdUJ4?si=Mggpou8Iw7B5c-i6">Recording</a>
         </td>
     </tr>
     <tr>
@@ -76,7 +78,9 @@ tbody tr:nth-child(odd) th {
             and Zhipeng Lü
         </td>
         <td>
-        -
+        <a target="_blank" href="{{ site.url }}/resources/Verstand.pdf">Report</a>
+        <br/>
+        <a href="https://youtu.be/S_F6_-5LeDo?si=bsVpAKYdBZNmWAp5">Recording</a>
         </td>
     </tr>
     <tr>
@@ -84,7 +88,9 @@ tbody tr:nth-child(odd) th {
         <td  style="text-align:left;">[Team Ausdroid-unimelb] Scalable Online Multi-Agent Path Planning: A Hybrid Method with Adaptive Scheduling and Conflict-Minimizing Conflict-Based Search</td>
         <td style="text-align:left;">Qihao Shen, Dajun Guo, <b>Katherine Ip*</b>, Guang Hu, Yangmengfei Xu and Chenyuan Zhang</td>
         <td>
-        -
+        <a target="_blank" href="{{ site.url }}/resources/Ausdroid-unimelb.pdf">Report</a>
+        <br/>
+        <a href="https://youtu.be/9SmNBKIOIUI?si=fGi6RaOd3FyUZO4a">Recording</a>
         </td>
     </tr>
     <tr>
@@ -97,7 +103,7 @@ tbody tr:nth-child(odd) th {
         and Jun-Bo Wang
         </td>
         <td>
-        -
+        <a href="https://youtu.be/yNr4MRm0gYw?si=SATJYFxVvAkpyG75">Recording</a>
         </td>
     </tr>
     <tr>
@@ -112,7 +118,7 @@ tbody tr:nth-child(odd) th {
         and Jiaoyang Li
         </td>
         <td>
-        -
+        <a href="https://youtu.be/k0-KG_b0woA?si=DvqkKpi4khfTVgEN">Recording</a>
         </td>
     </tr>
     <tr>
@@ -139,7 +145,9 @@ tbody tr:nth-child(odd) th {
         <td>12:20 </td>
         <td  style="text-align:left;">Award Ceremony</td>
         <td>-</td>
-        <td>-</td>
+        <td>
+        <a href="https://youtu.be/VaQTD9y9D7E?si=BWdpywkimwYm51mt">Recording</a>
+        </td>
     </tr>
      <tr>
         <td>12:30 </td>
